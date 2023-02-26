@@ -6,17 +6,18 @@
 
 body{
 	font-family: 'Merriweather Sans', sans-serif;
-	background-image: url(./images/pexels-photo-518245.jpeg);
+	background-image: url(./images/workspace-bg.jpg);
 	background-size: cover;
 }
 
-.custom-nav-footer-color{
-	background-color: #873DC2;
+.custom-body-color{
+	background-color: #8DABEB;
 }
 
-.custom-body-color{
-	background-color: #78C23D;
+.custom-text-color{
+	color: #EBD64D;
 }
+
 
 .footer{
 	position: fixed;
@@ -25,6 +26,10 @@ body{
   	width: 100%;
   	color: white;
   	text-align: center;
+}
+
+.contact-me{
+	justify-content: space-around;
 }
 
 #unordered-list{

@@ -7,17 +7,18 @@
 body{
 	font-family: 'Merriweather Sans', sans-serif;
 	background-image: url(./images/workspace-bg.jpg);
+	height: 500px;
+	background-attachment: fixed;
 	background-size: cover;
 }
 
-.custom-body-color{
+.custom-color{
 	background-color: #8DABEB;
 }
 
 .custom-text-color{
 	color: #EBD64D;
 }
-
 
 .footer{
 	position: fixed;
@@ -26,10 +27,6 @@ body{
   	width: 100%;
   	color: white;
   	text-align: center;
-}
-
-.contact-me{
-	justify-content: space-around;
 }
 
 #unordered-list{
